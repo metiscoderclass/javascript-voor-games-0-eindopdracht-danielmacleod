@@ -172,3 +172,8 @@ section article {
   justify-content: space-around;
 
 }
+
+a {
+  text-decoration: none;
+  
+}
