@@ -1,0 +1,46 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.backgroundimage {
+  background-color: #0046b7;
+}
+
+.background {
+  background-color: #116cff;
+  padding: 10px;
+  width: 45%;
+  float: left;
+  display: inline-table;
+  margin: 1rem;
+  top: 0;
+}
+
+.menu {
+  background-color: #116cff;
+  padding: 30px;
+  text-align: center;
+}
+
+.menu2 {
+  text-decoration: none;
+  color: black;
+  background-color: #0046b7;
+  padding: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: center;
+  width: 50%;
+  color: white;
+}
+
+.menu2:hover {
+  background-color: #116cff;
+}
+
+.footer {
+  width: 100%;
+  padding-top: 300px;
+  padding-bottom: 100px;
+}
